@@ -1,6 +1,6 @@
 {
-  "name": "vue-cli-plugin-scss-base",
-  "version": "0.2.2",
+  "name": "vue-cli-plugin-awesome-scss-base",
+  "version": "0.0.1",
   "description": "An opinionated Vue CLI plugin to include base SCSS structure and files such as variables, mixins and reset",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
     "vue-cli",
     "scss base"
   ],
-  "author": "Milad Alizadeh <contact@miladalizadeh.com> (miladalizadeh.com)",
+  "author": "ZXX/",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/milad-alizadeh/vue-cli-plugin-scss-base/issues"
